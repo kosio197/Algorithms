@@ -2,7 +2,7 @@
 
 **Course URL:** https://softuni.bg/trainings/1331/algorithms-april-2016<br />
 
-## Course description:
+## Course description
 The course "Algorithms" developed skills in algorithmic thinking and solving algorithmic problems. It covers the basic algorithms and their usage in practice: recursion and recursive algorithms, backtracking, combinatorial algorithms, sorting and searching algorithms, dynamic programming, graphs and graph algorithms, map-reduce.
 
 ## Course topics
