@@ -2,11 +2,10 @@
 
 **Course URL:** https://softuni.bg/trainings/1331/algorithms-april-2016<br />
 
-**Course description:**<br />
-Курсът по алгоритми развива умения за алгоритмично мислене и решаване на алгоритмични проблеми. Разглеждат се основните
-класове алгоритми, използвани в практиката: рекурсия и рекурсивни алгоритми, търсене с връщане назад (backtracking), комбинаторни алгоритми, алгоритми за сортиране и търсене, динамично оптимиране, графи и алгоритми върху графи, разпределени изчисления с 
-map-reduce.
+## Course description:
+The course "Algorithms" developed skills in algorithmic thinking and solving algorithmic problems. It covers the basic algorithms and their usage in practice: recursion and recursive algorithms, backtracking, combinatorial algorithms, sorting and searching algorithms, dynamic programming, graphs and graph algorithms, map-reduce.
 
+## Course topics
 * Recursion and Recursive Algorithms
   * Recursion: direct, indirect, infinite, exit criteria
   * Backtracking: the 8 queens problem, all paths in labyrinth
@@ -62,3 +61,8 @@ map-reduce.
   * Think about the efficiency
   * Implement your algorithm step-by-step
   * Thoroughly test your solution
+
+## Technologies
+* Eclipse Luna (4.4.2)
+* Linux Debian Jessie
+* Java 8
